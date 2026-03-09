@@ -1,6 +1,11 @@
 ## API Security Scanner
+*Created by 0x5da (toasty/OsintToast/WoahToast)*
 
 RESTful API security assessment framework. Discovers endpoints, performs CORS analysis, tests authentication mechanisms, and identifies common misconfigurations (HSTS, CSP, etc.). Designed for rapid security baseline evaluation of HTTP APIs.
+
+### Why I Built This
+
+Developed for application security professionals and API testers who need to rapidly assess REST API security posture. Built to automate endpoint discovery, CORS vulnerability detection, and security header validation—reducing assessment time and identifying common misconfigurations that could lead to unauthorized access or data exposure.
 
 ### What It Does
 
